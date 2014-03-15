@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.Saravana-pizza-restaurant"
+        id        = "com.phonegap.Naveen's-pizza-restaurant"
         version   = "1.0.0">
 
-    <name>Saravana Pizza Restaurant</name>
+    <name>Naveen's Pizza Restaurant</name>
 
     <description>
-       Saravana Pizza Restaurant
+       Naveen's Pizza Restaurant
     </description>
 
     <author href="http://phonegap.com" email="saravanamot90@gmail.com">
-       Saravana Technologies Team
+       Naveen's Technologies Team
     </author>
 
     <!--
